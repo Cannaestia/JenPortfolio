@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "High School Graduation",
+        "meta": "Myers Park High School",
+        "text": "As a student at Myers Park High School, I had the opportunity to participate in a number of extracurricular programs, including the American Red Cross Association and the JROTC program. These experiences not only allowed me to give back to my community and develop valuable leadership skills, but also provided me with a well-rounded education and a strong foundation for my future endeavors.",
+        "year": "1999 - 2003"
+    },
+    {
+        "id": 2,
+        "title": "Animation",
+        "meta": "Animation Mentor",
+        "text": "As a student at Animation Mentor, I had the opportunity to receive a comprehensive education in the field of animation from experienced industry professionals. Throughout the program, I gained a strong foundation in 3D animation techniques and technologies, as well as an understanding of how to apply these skills to a variety of animation styles. In addition to technical training, the Animation Mentor program also provided me with valuable coursework on storytelling, character development, and the animation industry, giving me a well-rounded education that has prepared me for a career in the field. I am confident that my participation in the Animation Mentor program has equipped me with the skills and knowledge necessary to succeed in the animation industry.",
+        "year": "2019-2021"
+    },
+    {
+        "id": 3,
+        "title": "Coding: Full Stack Web Development Certification",
+        "meta": "University North Carolina Charlotte",
+        "text": "I recently had the opportunity to participate in the University of North Carolina at Charlotte's Coding Bootcamp, a highly esteemed 12 week program designed to provide individuals with the skills and knowledge they need to succeed in the field of web development. Throughout the program, I received in-depth instruction on various programming languages, including HTML, CSS, JavaScript, and responsive design, as well as industry-standard tools such as Git and Node.js. My participation in the Coding Bootcamp has equipped me with the knowledge and skills necessary to succeed in the tech industry and I am confident that I have the tools and abilities to thrive in this dynamic field.",
+        "year": "2022-2022"
+    }
+]

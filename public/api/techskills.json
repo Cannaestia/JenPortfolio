@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "React",
+        "percentage": 85
+    },
+    {
+        "id": 2,
+        "title": "JavaScript",
+        "percentage": 80
+    },
+    {
+        "id": 3,
+        "title": "Front-end Development",
+        "percentage": 95
+    },
+    {
+        "id": 4,
+        "title": "Back-end Development",
+        "percentage": 75
+    }
+]

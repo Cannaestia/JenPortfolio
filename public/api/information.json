@@ -1,0 +1,28 @@
+{
+    "firstName": "Jennifer",
+    "lastName": "Arnold",
+    "fullName": "Jennifer Arnold",
+    "thumbImage": "/images/LiamandME.jpeg",
+    "largeImage": "/images/Jen_Wallpaper.png",
+    "bio": "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
+    "age": 37,
+    "nationality": "American",
+    "languages": [
+        "English"
+    ],
+    "address": "Charlotte North Carolina, United States",
+    "freelance": "Available",
+    "socialAddress": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "dribbble": "https://dribbble.com"
+    },
+    "phoneNumbers": [
+        "704-794-4791"
+    ],
+    "emailAddress": [
+        "Cannaestia@gmail.com"
+    ]
+}
