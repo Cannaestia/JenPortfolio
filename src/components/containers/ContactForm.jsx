@@ -39,8 +39,8 @@ const ContactForm = () => {
 
   return (
     <form
-      action="https://public.herotofu.com/v1/5ca2d330-685f-11ed-bd0a-c1ef0a3c8340" 
-      method="POST"
+      // action="https://public.herotofu.com/v1/5ca2d330-685f-11ed-bd0a-c1ef0a3c8340" 
+      // method="POST"
       ref={currentForm}
       className="card -mt-1.5  space-y-4 p-4 md:p-5"
       onSubmit={handleSubmit(onSubmit)}

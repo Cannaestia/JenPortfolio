@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "title": "UI/UX Designer",
-        "meta": "Abc Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2015 - 2017"
+        "title": "YouTuber / Content Creator",
+        "meta": "Cannaestia",
+        "text": "I have accumulated a total of 2.3 million followers and subscribers across YouTube and TikTok. Some of my videos have gained as much as 13 million views.",
+        "year": "2016"
     },
     {
         "id": 2,
-        "title": "Front-end Developer",
-        "meta": "Def Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2017 - 2019"
+        "title": "Freelance Animatior",
+        "meta": "Pure Imagination Stuidos",
+        "text": "I currently own my own animation studio where I create animations for entertainment purposes on YouTube and Tik Tok as well as do freelance animation work for others in the crypto currency and entertainment world.",
+        "year": "2018"
     },
     {
         "id": 3,
-        "title": "Back-end Developer",
-        "meta": "Ghi Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2019 - Present"
+        "title": "Software Engineer",
+        "meta": "Freelance",
+        "text": "As a freelance software engineer just starting out in the field, I am excited to bring my skills and passion for technology to a wide range of clients. With a strong foundation in computer science and a desire to constantly learn and grow, I am confident in my ability to deliver high-quality software solutions. I understand the importance of building strong relationships with clients and am committed to effective communication and meeting deadlines. I am eager to get started on my journey as a freelance software engineer and can't wait to see what the future holds.",
+        "year": "2022"
     }
 ]

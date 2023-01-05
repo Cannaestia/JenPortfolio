@@ -35,7 +35,7 @@ const CategoryPosts = ({ posts, hasMore, categories, recentPosts }) => {
   return (
     <Layout>
       <Head>
-        <title>Blogs - Bieber - React Personal Portfolio Template</title>
+        <title>Blogs</title>
       </Head>
       <Breadcrumb
         title={slug}
