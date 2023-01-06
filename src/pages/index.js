@@ -19,7 +19,7 @@ const Homepage = ({ posts }) => {
   return (
     <Layout blurred>
       <Head>
-        <title>Jennifer Arnold Portfolio</title>
+        <title>Jennifer Portfolio</title>
       </Head>
 
       {/* Start Hero Section */}
@@ -53,7 +53,7 @@ const Homepage = ({ posts }) => {
       {/* End Skills Section */}
 
       {/* Start Service Section */}
-      <Section
+      {/* <Section
         name="section-service"
         className="services-section pt-24 lg:pt-28 xl:pt-32"
       >
@@ -61,7 +61,7 @@ const Homepage = ({ posts }) => {
           <SectionHeading animated={false} title="My Services" watermark="Services" />
           <ServicesSection />
         </div>
-      </Section>
+      </Section> */}
       {/* End Service Section */}
 
       {/* Start Resume Section */}

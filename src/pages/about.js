@@ -24,7 +24,7 @@ const about = () => {
       {/* End About Section */}
 
       {/* Start Service Section */}
-      <section
+      {/* <section
         name="section-service"
         className="services-section pt-24 lg:pt-28 xl:pt-32"
       >
@@ -36,7 +36,7 @@ const about = () => {
           />
           <ServicesSection />
         </div>
-      </section>
+      </section> */}
       {/* End Service Section */}
 
       {/* Start Reviews Section */}

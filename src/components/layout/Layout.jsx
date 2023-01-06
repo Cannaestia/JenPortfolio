@@ -26,7 +26,7 @@ const Layout = ({ children, blurred }) => {
     >
       <Header />
       <main
-        className={`page-content relative bg-grey bg-opacity-95 ${
+        className={`page-content relative bg-grey  ${
           blurred ? "backdrop-blur-lg backdrop-filter" : ""
         }`}
       >
