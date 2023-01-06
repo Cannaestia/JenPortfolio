@@ -24,8 +24,7 @@ const ContactSection = () => {
         <div className="contact-information">
           <h4>Contact Information</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. A omnis,
-            iusto harum possimus non praesentium qui facere.
+          Thank you for considering contacting me. I am always happy to connect with new people and discuss potential opportunities or projects. Please do not hesitate to reach out using the form below and I will get back to you as soon as possible.
           </p>
           <span className="inline-block h-1 w-20 rounded-full bg-primary bg-opacity-20"></span>
           <div className="contact-blocks mt-5 space-y-5">
@@ -34,7 +33,7 @@ const ContactSection = () => {
                 <RiPhoneLine />
               </span>
               <div className="content">
-                <h5 className="mb-2">Contact on phone</h5>
+                <h5 className="mb-2">Contact via phone</h5>
                 {data.phoneNumbers.map((number, index) => (
                   <p className="mb-0" key={index}>
                     <Link href={`tel:${number.split("-").join("")}`}>
@@ -49,7 +48,7 @@ const ContactSection = () => {
                 <RiMailLine />
               </span>
               <div className="content">
-                <h5 className="mb-2">Contact on mail</h5>
+                <h5 className="mb-2">Contact via E-mail</h5>
                 {data.emailAddress.map((email, index) => (
                   <p className="mb-0" key={index}>
                     <Link href={`mailto:${email}`}>
@@ -64,9 +63,9 @@ const ContactSection = () => {
                 <RiMapPinLine />
               </span>
               <div className="content">
-                <h5 className="mb-2">Contact address</h5>
+                <h5 className="mb-2">Contact via Discord</h5>
                 <p className="mb-0">
-                  Charlotte North Carolina, United States
+                  Cannaestia#1119
                 </p>
               </div>
             </div>
