@@ -1,7 +1,7 @@
 {
     "name": "bieber",
     "description": "portfolio",
-    "author": "Jennifer",
+    "author": "NuclearThemes",
     "version": "1.0.0",
     "main": "index.js",
     "private": true,
