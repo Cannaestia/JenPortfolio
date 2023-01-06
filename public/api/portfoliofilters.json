@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "UI/UX Design",
-        "value": "uiux"
+        "title": "Animation",
+        "value": "animation"
     },
     {
         "id": 2,
@@ -18,5 +18,16 @@
         "id": 4,
         "title": "Node Js",
         "value": "node"
+    },
+    {
+        "id": 5,
+        "title": "MongoDB",
+        "value": "mongoDB"
+    },
+    {
+        "id": 6,
+        "title": "MySQL",
+        "value": "MySQL"
     }
+
 ]

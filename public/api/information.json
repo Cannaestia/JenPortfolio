@@ -3,8 +3,8 @@
     "lastName": "Arnold",
     "fullName": "Jennifer Arnold",
     "thumbImage": "/images/LiamandME.jpeg",
-    "largeImage": "/images/Jen_Wallpaper.png",
-    "bio": "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
+    "largeImage": "/images/AboutCodeSmall.gif",
+    "bio": "As a recent graduate from UNC Charlotte's Software Engineering program, I am excited to begin my career in the field and make the transition from animation to software engineering. I am highly motivated and eager to apply my knowledge and skills to real-world projects.",
     "age": 37,
     "nationality": "American",
     "languages": [
@@ -13,11 +13,10 @@
     "address": "Charlotte North Carolina, United States",
     "freelance": "Available",
     "socialAddress": {
-        "facebook": "https://facebook.com",
-        "twitter": "https://twitter.com",
-        "github": "https://github.com",
-        "linkedin": "https://linkedin.com",
-        "dribbble": "https://dribbble.com"
+        "linkedin": "https://www.linkedin.com/in/jennifer-arnold-445644255/",
+        "youtube": "https://www.youtube.com/cannaestia",
+        "twitter": "https://twitter.com/cannaestia",
+        "github": "https://github.com/Cannaestia"
     },
     "phoneNumbers": [
         "704-794-4791"

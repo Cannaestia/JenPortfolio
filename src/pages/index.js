@@ -15,7 +15,7 @@ import { Layout } from "../components/layout";
 import { SectionHeading } from "../components/utils";
 import { getPostsByPage } from "../lib/blogging";
 
-const Homepage2 = ({ posts }) => {
+const Homepage = ({ posts }) => {
   return (
     <Layout blurred>
       <Head>
@@ -89,7 +89,7 @@ const Homepage2 = ({ posts }) => {
       {/* End Portfolios Section */}
 
       {/* Start Reviews Section */}
-      <Section
+      {/* <Section
         name="section-reviews"
         className="reviews-section pt-24 lg:pt-28 xl:pt-32"
       >
@@ -97,7 +97,7 @@ const Homepage2 = ({ posts }) => {
           <SectionHeading animated={false} title="Client Reviews" watermark="Reviews" />
           <ReviewsSection />
         </div>
-      </Section>
+      </Section> */}
       {/* End Reviews Section */}
 
       {/* Start Blog Section */}
@@ -129,7 +129,7 @@ const Homepage2 = ({ posts }) => {
   );
 };
 
-export default Homepage2;
+export default Homepage;
 
 export function getStaticProps() {
   const { posts } = getPostsByPage();

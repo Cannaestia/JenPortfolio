@@ -1,9 +1,8 @@
 import {
-    RiDribbbleFill,
-    RiFacebookFill,
     RiGithubFill,
     RiLinkedinBoxFill,
     RiTwitterFill,
+    RiYoutubeFill
 } from "react-icons/ri";
 
 const SocialIcons = ({ data, rounded }) => {
@@ -11,10 +10,10 @@ const SocialIcons = ({ data, rounded }) => {
 
     return (
         <ul className="mb-0 inline-flex list-none flex-wrap gap-3 pl-0 sm:gap-4">
-            {data.facebook && (
+            {data.youtube && (
                 <li className="inline-block align-middle">
                     <a
-                        href={data.facebook}
+                        href={data.youtube}
                         target="_blank"
                         rel="noopener noreferrer"
                         className={`group relative inline-block h-10 w-10 overflow-hidden border border-white border-opacity-10 text-center align-middle text-lg leading-none text-body ${
@@ -22,10 +21,10 @@ const SocialIcons = ({ data, rounded }) => {
                         }`}
                     >
                         <span className="front relative left-0 top-0 flex h-full w-full translate-y-0 transform items-center justify-center rounded bg-grey transition-all duration-500 group-hover:-translate-y-full">
-                            <RiFacebookFill className="inline-block" />
+                            <RiYoutubeFill className="inline-block" />
                         </span>
                         <span className="back absolute left-0 top-0 flex h-full w-full translate-y-full items-center justify-center rounded bg-primary text-grey transition-all duration-500 group-hover:translate-y-0">
-                            <RiFacebookFill className="inline-block" />
+                            <RiYoutubeFill className="inline-block" />
                         </span>
                     </a>
                 </li>
@@ -87,7 +86,7 @@ const SocialIcons = ({ data, rounded }) => {
                     </a>
                 </li>
             )}
-            {data.dribbble && (
+            {/* {data.dribbble && (
                 <li className="inline-block align-middle">
                     <a
                         href={data.dribbble}
@@ -105,7 +104,7 @@ const SocialIcons = ({ data, rounded }) => {
                         </span>
                     </a>
                 </li>
-            )}
+            )} */}
         </ul>
     );
 };

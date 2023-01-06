@@ -1,67 +1,68 @@
 [
     {
         "id": 1,
-        "title": "Candle",
-        "subtitle": "Creative Candle Light",
-        "coverimage": "/images/portfolios/portfolio-image-19.jpg",
+        "title": "Bullies 2 the Rescue",
+        "subtitle": "Dog Adoption Application",
+        "coverimage": "/images/portfolios/doghomepage.png",
         "imagegallery": [
-            "/images/portfolios/portfolio-image-lg-19.jpg",
-            "/images/portfolios/portfolio-image-lg-18.jpg",
-            "/images/portfolios/portfolio-image-lg-17.jpg"
+            "/images/portfolios/doghomepage.png",
+            "/images/portfolios/Bullies.png",
+            "/images/portfolios/Bullies1.png",
+            "/images/portfolios/Bullies2.png"
         ],
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://gruesome-witch-05502.herokuapp.com/",
         "filters": ["react"]
     },
     {
         "id": 2,
-        "title": "Paint",
-        "subtitle": "Creative wall painting",
-        "coverimage": "/images/portfolios/portfolio-image-2.jpg",
+        "title": "Harry Potter Quiz",
+        "subtitle": "Test your knowledge of the wizarding world (work in progress)",
+        "coverimage": "/images/portfolios/HarryPotter.jpg",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux"]
+        "url": "https://cannaestia.github.io/Harry-Potter-Quiz/",
+        "filters": ["html"]
     },
     {
         "id": 3,
-        "title": "UI/UX Sample",
-        "subtitle": "UI/UX Sample design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-3.jpg",
+        "title": "Animation",
+        "subtitle": "What Really Happens on The Battle Bus Series",
+        "coverimage": "/images/portfolios/Fortnite.jpg",
         "imagegallery": false,
-        "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
-        "url": "https://dribbble.com",
-        "filters": ["html", "react"]
+        "videogallery": ["https://www.youtube.com/watch?v=nr37AxGZuJc&"],
+        "url": "https://www.youtube.com/watch?v=nr37AxGZuJc&",
+        "filters": ["animation"]
     },
     {
         "id": 4,
-        "title": "Packet",
-        "subtitle": "Packet design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-4.jpg",
-        "imagegallery": ["/images/portfolios/portfolio-image-lg-4.jpg"],
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux", "node"]
+        "title": "Team Proflie Generator",
+        "subtitle": "Team Tracker",
+        "coverimage": "/images/portfolios/node.jpg",
+        "imagegallery": false,
+        "videogallery": ["/images/portfolios/teamtracker.mp4"],
+        "url": "https://github.com/Cannaestia/Team-profile-generator",
+        "filters": ["node"]
     },
     {
         "id": 5,
-        "title": "Packet",
-        "subtitle": "Another packet design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-5.jpg",
-        "imagegallery": ["/images/portfolios/portfolio-image-lg-5.jpg"],
-        "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
-        "url": "https://dribbble.com",
-        "filters": ["uiux", "html"]
+        "title": "Employee Tracker",
+        "subtitle": "MySQL Based Employee Tracker",
+        "coverimage": "/images/portfolios/MySQL.jpg",
+        "imagegallery": false,
+        "videogallery": ["/images/portfolios/employeetracker.mp4"],
+        "url": "https://github.com/Cannaestia/Employee-Tracker",
+        "filters": ["MySQL","node"]
     },
     {
         "id": 6,
-        "title": "Cream",
-        "subtitle": "Creative cream box design",
+        "title": "Social Media API",
+        "subtitle": "API Based Application",
         "coverimage": "/images/portfolios/portfolio-image-6.jpg",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["html", "node"]
+        "filters": ["mongoDB"]
     },
     {
         "id": 7,

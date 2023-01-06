@@ -40,7 +40,7 @@ const about = () => {
       {/* End Service Section */}
 
       {/* Start Reviews Section */}
-      <section
+      {/* <section
         name="section-reviews"
         className="reviews-section pt-24 lg:pt-28 xl:pt-32"
       >
@@ -52,7 +52,7 @@ const about = () => {
           />
           <ReviewsSection />
         </div>
-      </section>
+      </section> */}
       {/* End Reviews Section */}
 
       <span className="block pb-24 lg:pb-28 xl:pb-32"></span>
