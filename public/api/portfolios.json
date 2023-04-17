@@ -1,6 +1,25 @@
 [
     {
         "id": 1,
+        "title": "Pet Pals NFT",
+        "subtitle": "NFT minting website for Pet Pals",
+        "coverimage": "/images/portfolios/react.jpg",
+        "imagegallery": [
+            "/images/portfolios/petport1.png",
+            "/images/portfolios/petport2.png",
+            "/images/portfolios/petport3.png",
+            "/images/portfolios/petport4.png",
+            "/images/portfolios/petport5.png",
+            "/images/portfolios/petport6.png",
+            "/images/portfolios/petport7.png",
+            "/images/portfolios/petport8.png"
+        ],
+        "videogallery": false,
+        "url": "https://petpalsnft.io/",
+        "filters": ["Next", "Web3", "Solitiy"]
+    },
+    {
+        "id": 2,
         "title": "Bullies 2 the Rescue",
         "subtitle": "Dog Adoption Application (work in progress)",
         "coverimage": "/images/portfolios/react.jpg",
@@ -15,7 +34,7 @@
         "filters": ["react"]
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Harry Potter Quiz",
         "subtitle": "Test your knowledge of the wizarding world",
         "coverimage": "/images/portfolios/HarryPotter.jpg",
@@ -28,7 +47,7 @@
         "filters": ["html"]
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Animation",
         "subtitle": "What Really Happens on The Battle Bus Series",
         "coverimage": "/images/portfolios/Fortnite.jpg",
@@ -38,7 +57,7 @@
         "filters": ["animation"]
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Team Proflie Generator",
         "subtitle": "Team Tracker",
         "coverimage": "/images/portfolios/node.jpg",
@@ -48,7 +67,7 @@
         "filters": ["node"]
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Employee Tracker",
         "subtitle": "MySQL Based Employee Tracker",
         "coverimage": "/images/portfolios/MySQL.jpg",
@@ -58,7 +77,7 @@
         "filters": ["MySQL","node"]
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Social Network API",
         "subtitle": "API Based Application",
         "coverimage": "/images/portfolios/socialnetwork.jpg",
@@ -68,7 +87,7 @@
         "filters": ["mongoDB"]
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Weather API",
         "subtitle": "Search for Weather Conditions in the World",
         "coverimage": "/images/portfolios/api.jpg",
@@ -78,7 +97,7 @@
         "filters": ["html", "api"]
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "E-Commerce",
         "subtitle": "Using Sequelize to Interact With MySQL",
         "coverimage": "/images/portfolios/e-commerceimage.jpg",
