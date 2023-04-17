@@ -33,6 +33,21 @@
         "id": 7,
         "title": "API",
         "value": "api"
+    },
+    {
+        "id": 8,
+        "title": "WEB3",
+        "value": "web3"
+    },
+    {
+        "id": 9,
+        "title": "NEXT",
+        "value": "next"
+    },
+    {
+        "id": 10,
+        "title": "SOLIDITY",
+        "value": "solidity"
     }
 
 ]
