@@ -15,9 +15,16 @@
     },
     {
         "id": 3,
-        "title": "Software Engineer",
+        "title": "Software Developer",
         "meta": "Freelance",
         "text": "As a freelance software engineer just starting out in the field, I am excited to bring my skills and passion for technology to a wide range of clients. With a strong foundation in computer science and a desire to constantly learn and grow, I am confident in my ability to deliver high-quality software solutions. I understand the importance of building strong relationships with clients and am committed to effective communication and meeting deadlines. I am eager to get started on my journey as a freelance software engineer and can't wait to see what the future holds.",
         "year": "2022"
+    },
+    {
+        "id": 3,
+        "title": "Software Developer",
+        "meta": "Center For Life Management",
+        "text": "Junior Developer and User support. Maintain Company Databases and electronic medical records.",
+        "year": "2023"
     }
 ]
