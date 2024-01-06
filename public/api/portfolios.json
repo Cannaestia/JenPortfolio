@@ -1,6 +1,20 @@
 [
     {
         "id": 1,
+        "title": "E-Commerce",
+        "subtitle": "Fullscope Website using React",
+        "coverimage": "/images/portfolios/FullScope.png",
+        "imagegallery": [
+            "/images/portfolios/FullScope.png",
+            "/images/portfolios/Fullscope2.png",
+            "/images/portfolios/Fullscope3.png"
+        ],
+        "videogallery": false,
+        "url": "https://www.fullscopehub.com/",
+        "filters": ["node","react","next"]
+    },
+    {
+        "id": 2,
         "title": "Pet Pals NFT",
         "subtitle": "NFT minting website for Pet Pals",
         "coverimage": "/images/portfolios/Nextjs.jpg",
@@ -19,7 +33,7 @@
         "filters": ["next", "web3", "solitiy"]
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Bullies 2 the Rescue",
         "subtitle": "Dog Adoption Application (work in progress)",
         "coverimage": "/images/portfolios/react.jpg",
@@ -34,7 +48,7 @@
         "filters": ["react"]
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Harry Potter Quiz",
         "subtitle": "Test your knowledge of the wizarding world",
         "coverimage": "/images/portfolios/HarryPotter.jpg",
@@ -47,7 +61,7 @@
         "filters": ["html"]
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Animation",
         "subtitle": "What Really Happens on The Battle Bus Series",
         "coverimage": "/images/portfolios/Fortnite.jpg",
@@ -57,7 +71,7 @@
         "filters": ["animation"]
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Team Proflie Generator",
         "subtitle": "Team Tracker",
         "coverimage": "/images/portfolios/node.jpg",
@@ -67,7 +81,7 @@
         "filters": ["node"]
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Employee Tracker",
         "subtitle": "MySQL Based Employee Tracker",
         "coverimage": "/images/portfolios/MySQL.jpg",
@@ -77,7 +91,7 @@
         "filters": ["MySQL","node"]
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Social Network API",
         "subtitle": "API Based Application",
         "coverimage": "/images/portfolios/socialnetwork.jpg",
@@ -87,7 +101,7 @@
         "filters": ["mongoDB"]
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "Weather API",
         "subtitle": "Search for Weather Conditions in the World",
         "coverimage": "/images/portfolios/api.jpg",
@@ -97,7 +111,7 @@
         "filters": ["html", "api"]
     },
     {
-        "id": 9,
+        "id": 10,
         "title": "E-Commerce",
         "subtitle": "Using Sequelize to Interact With MySQL",
         "coverimage": "/images/portfolios/e-commerceimage.jpg",
@@ -105,19 +119,5 @@
         "videogallery": ["/images/portfolios/e-commerce.mp4"],
         "url": "https://github.com/Cannaestia/E-commerce-tracke",
         "filters": ["MySQL","api"]
-    },
-    {
-        "id": 9,
-        "title": "E-Commerce",
-        "subtitle": "Fullscope Website using React",
-        "coverimage": "/images/portfolios/FullScope.png",
-        "imagegallery": [
-            "/images/portfolios/FullScope.png",
-            "/images/portfolios/Fullscope2.png",
-            "/images/portfolios/Fullscope3.png"
-        ],
-        "videogallery": false,
-        "url": "https://www.fullscopehub.com/",
-        "filters": ["node","react","next"]
     }
 ]
