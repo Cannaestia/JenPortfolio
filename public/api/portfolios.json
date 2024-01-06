@@ -118,6 +118,6 @@
         ],
         "videogallery": false,
         "url": "https://www.fullscopehub.com/",
-        "filters": ["node","react"]
+        "filters": ["node","react","next"]
     }
 ]
