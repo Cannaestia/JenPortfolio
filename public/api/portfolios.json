@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "E-Commerce",
+        "title": "FullScope Website",
         "subtitle": "Fullscope Website using React",
         "coverimage": "/images/portfolios/FullScope.png",
         "imagegallery": [
@@ -29,7 +29,7 @@
             "/images/portfolios/petport8.png"
         ],
         "videogallery": false,
-        "url": "https://petpalsnft.io/",
+        "url": "https://petpals-cannaestia-s-team.vercel.app/",
         "filters": ["next", "web3", "solitiy"]
     },
     {
